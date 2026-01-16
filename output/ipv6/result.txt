@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-16 23:15:35,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-01-17 06:33:37,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -23,9 +23,9 @@ CCTV-16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
 CCTV-17,http://api.kkitv.itv888.cn:8080/hls/5t4bgijh9da/index.m3u8
 
 💰央视付费频道,#genre#
+文化精品,http://www.xiaomo520.cn:4020/udp/239.252.219.81:5140
 第一剧场,http://www.xiaomo520.cn:4020/udp/239.252.219.86:5140
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-文化精品,http://www.xiaomo520.cn:4020/udp/239.252.219.81:5140
 风云剧场,http://www.xiaomo520.cn:4020/udp/239.252.219.89:5140
 怀旧剧场,http://www.xiaomo520.cn:4020/udp/239.252.219.90:5140
 世界地理,http://www.xiaomo520.cn:4020/udp/239.252.219.93:5140
@@ -81,3 +81,6 @@ CCTV-17,http://api.kkitv.itv888.cn:8080/hls/5t4bgijh9da/index.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 天津卫视,http://api.kkitv.itv888.cn:8080/hls/z2lkdkrb4w/index.m3u8
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+
+☘️河南频道,#genre#
+沁阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
