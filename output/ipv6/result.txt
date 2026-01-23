@@ -10,8 +10,7 @@ CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 北京卫视,http://api.kkitv.itv888.cn:8080/hls/h5uud1z84gn/index.m3u8
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-北京卫视,https://migu.188766.xyz/?migutoken=a20455170a0d4440e07abd44d4a2c9f6&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-北京卫视,https://migu.188766.xyz/?migutoken=7456c6182aee141001192f1b2df1ffae&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+北京卫视,https://migu.188766.xyz/?migutoken=6df297d6e2210dccdedb707b64936d99&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 湖北卫视,http://api.kkitv.itv888.cn:8080/hls/qwummpaoaq/index.m3u8
 湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
 黑龙江卫视,http://api.kkitv.itv888.cn:8080/hls/2a24lcvser/index.m3u8
@@ -25,7 +24,7 @@ CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
 东南卫视,http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,http://api.kkitv.itv888.cn:8080/hls/yvz4ndj9dqb/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 贵州卫视,http://api.kkitv.itv888.cn:8080/hls/5dqtpf3arun/index.m3u8
@@ -41,6 +40,7 @@ CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 山东卫视,http://api.kkitv.itv888.cn:8080/hls/6gcdai13om5/index.m3u8
 山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 四川卫视,http://api.kkitv.itv888.cn:8080/hls/p2npnppn96p/index.m3u8
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 深圳卫视,http://api.kkitv.itv888.cn:8080/hls/iftsd32ykm/index.m3u8
